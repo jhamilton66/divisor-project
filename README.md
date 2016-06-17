@@ -1,11 +1,11 @@
-# Automation Project 
+# Divisor Project 
 
-*Basic Automation Project Structure* Day 10
+*Basic Project Which Uses Data Driven Test and Helper Method to Test Divisor Function - Day 17*
 
 **Java 7**
 
 * Maven
 * TestNG
-* Selenium WebDriver
+* Data Driven Test
 
-[James Hamilton] (jameshamilton9878@comcast.net)
+[James Hamilton](jameshamilton9878@comcast.net)
